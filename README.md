@@ -3,7 +3,9 @@ _Привет, меня зовут Артём
 Я начинающий Junior Fronted разработчик на Python  
 Изучаю Python почти год_
 
-## Языки программирования и инструменты
+## Языки программирования и инструменты  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artick-2813&layout=compact)](https://github.com/Artick-2813/github-readme-stats)  
 
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=FFD644)
 ![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=FFD644)
@@ -11,6 +13,10 @@ _Привет, меня зовут Артём
 ![Javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=FFD644)
 ![Jquery](https://img.shields.io/badge/jquery-000000?style=for-the-badge&logo=jquery&logoColor=FFD644)
 
+
+## Статистика
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)  
 
 <!--
 **Artick-2813/Artick-2813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
